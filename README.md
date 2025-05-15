@@ -53,11 +53,16 @@ If you're curious, feel free to message me — I'm always happy to discuss data,
 - 📊 **Tableau Certified Data Analyst**
 - ☁️ **AWS Certified Cloud Practitioner**
 
-🎯 *Currently working towards additional AWS certifications to deepen my cloud and machine learning skills. My personal objectives as follows:*
+💡 *Currently working towards additional AWS certifications to deepen my cloud and machine learning skills.*
 
-1.- AWS Prompt Engineer Path: Cloud Practitioner | AI Practitioner | Machine Learning Engineer Associate | Machine Learning Specialty 
-2.- AWS Data Science Path: Cloud Practitioner | AI Practitioner | Solutions Architect Associate | Machine Learning Engineer Associate | Machine Learning Specialty
-3.- AWS Machine Learning Engineer: Cloud Practitioner | AI Practitioner | Solutions Architect Associate | Machine Learning Engineer Associate | Data Engineer Associate | Machine Learning Specialty
+**Personal certification goals:**
+
+- **Prompt Engineer Path**  
+  Cloud Practitioner → AI Practitioner → ML Engineer Associate → ML Specialty  
+- **Data Science Path**  
+  Cloud Practitioner → AI Practitioner → Solutions Architect Associate → ML Engineer Associate → ML Specialty  
+- **ML Engineer Focus**  
+  Cloud Practitioner → AI Practitioner → Solutions Architect Associate → ML Engineer Associate → Data Engineer Associate → ML Specialty
 
 ---
 
