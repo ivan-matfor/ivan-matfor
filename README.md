@@ -83,7 +83,6 @@ Outside the world of data, I’m into:
 
 - [LinkedIn](https://www.linkedin.com/in/ivanmatfor-datascientist)
 - [Credly](https://www.credly.com/users/ivan-mateo-forcen)
-- [Skillshop](https://skillshop.credential.net/profile/ivanmf891088/wallet)
 
 ---
 
