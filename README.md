@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Iván Mateo Forcen
+# 👋 Hi there! I'm Ivan Mateo Forcen
 
 **Data Analyst | Aspiring Data Scientist | Python Enthusiast | AI Prompt Addict**
 
@@ -57,11 +57,11 @@ If you're curious, feel free to message me — I'm always happy to discuss data,
 
 **Personal certification goals:**
 
-- **Prompt Engineer Path**  
+- **1.- Prompt Engineer Path**  
   Cloud Practitioner → AI Practitioner → ML Engineer Associate → ML Specialty  
-- **Data Science Path**  
+- **2.- Data Science Path**  
   Cloud Practitioner → AI Practitioner → Solutions Architect Associate → ML Engineer Associate → ML Specialty  
-- **ML Engineer Focus**  
+- **3.- ML Engineer Focus**  
   Cloud Practitioner → AI Practitioner → Solutions Architect Associate → ML Engineer Associate → Data Engineer Associate → ML Specialty
 
 ---
