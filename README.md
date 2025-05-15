@@ -8,9 +8,9 @@
 
 ## 💡 About Me
 
-I’m deeply passionate about Data Science, Artificial Intelligence, and the power of turning raw data into something meaningful. My motivation comes from a genuine curiosity about how things work—and a desire to make them work better.
+Data Science and Artificial Intelligence along with data transformation into meaningful insights drive my deep passion. My motivation stems from both my desire to understand how things function and my goal to enhance their operation.
 
-I strongly believe that **building hands-on projects** is the best way to grow and to give back to the community. Whether it’s a small experiment or a larger analytical tool, I use every project as a learning experience and a way to help others through open sharing.
+The most effective way to develop skills and serve the community involves hands-on project development. I treat every project as a learning opportunity to help others through open sharing whether it is a small experiment or a larger analytical tool.
 
 💬 I probably don't pay OpenAI enough for my usage... and that says a lot.
 
