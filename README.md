@@ -58,11 +58,11 @@ If you're curious, feel free to message me — I'm always happy to discuss data,
 **Personal certification goals:**
 
 - **1.- AWS Prompt Engineer Path**  
-  Cloud Practitioner → AI Practitioner → ML Engineer Associate → ML Specialty  
+  Cloud Practitioner ✅ → AI Practitioner ✅ → ML Engineer Associate → ML Specialty  
 - **2.- AWS Data Science Path**  
-  Cloud Practitioner → AI Practitioner → Solutions Architect Associate → ML Engineer Associate → ML Specialty  
+  Cloud Practitioner ✅ → AI Practitioner ✅ → Solutions Architect Associate → ML Engineer Associate → ML Specialty  
 - **3.- AWS ML Engineer Path**  
-  Cloud Practitioner → AI Practitioner → Solutions Architect Associate → ML Engineer Associate → Data Engineer Associate → ML Specialty
+  Cloud Practitioner ✅ → AI Practitioner ✅ → Solutions Architect Associate → ML Engineer Associate → Data Engineer Associate → ML Specialty
 
 ---
 
