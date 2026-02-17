@@ -22,10 +22,10 @@ Python | Pandas | NumPy | Matplotlit | Plotly | Statsmodels | SQL | Git
 - ...
 
 ## Certifications
-AWS Certified AI Practitioner
-PCAP – Python Certified Associate
-AWS Cloud Practitioner
-Tableau Certified Data Analyst
+- AWS Certified AI Practitioner
+- PCAP – Python Certified Associate
+- AWS Cloud Practitioner
+- Tableau Certified Data Analyst
 
 ---
 
