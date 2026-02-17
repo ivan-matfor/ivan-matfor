@@ -12,10 +12,10 @@ Based in Switzerland 🇨🇭
 ## Current Work
 - Building end-to-end ML projects
 - Streamlit apps for model deployment
-- Strengthening MLOps & cloud fundamentals
+- Strengthening MLOps & Cloud workflows
 
 ## Tech Stack
-Python | Pandas | NumPy | Matplotlit | Plotly | sta | SQL | Git 
+Python | Pandas | NumPy | Matplotlit | Plotly | Statsmodels | SQL | Git 
 
 ## Selected Projects
 - mini-project-streamlit
