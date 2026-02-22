@@ -15,11 +15,23 @@ Based in Switzerland 🇨🇭
 - Strengthening MLOps & Cloud workflows
 
 ## Tech Stack
-Python | Pandas | NumPy | Matplotlit | Plotly | Statsmodels | SQL | Git 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-003B57?style=flat)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ## Selected Projects
-- mini-project-streamlit
-- ...
+
+### Data Visualization
+[Interactive Data Visualization App built with Streamlit](https://github.com/ivan-matfor/mini-project-streamlit)
+
+### Statistical Analysis
+[Mastodon Engagement Analysis (API + Statistical Modelling)](https://github.com/ivan-matfor/mastodon-challenge)
 
 ## Certifications
 - AWS Certified AI Practitioner
