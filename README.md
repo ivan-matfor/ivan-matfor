@@ -1,6 +1,7 @@
 # Ivan Mateo Forcen
 
 Data Science | Strong Analytics Background 
+
 Based in Switzerland 🇨🇭  
 
 ## Focus
