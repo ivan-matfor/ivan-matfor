@@ -42,6 +42,8 @@ Based in Switzerland 🇨🇭
 - AWS Cloud Practitioner
 - Tableau Certified Data Analyst
 
+[Credly](https://www.credly.com/users/ivan-mateo-forcen/badges#credly)
+
 ---
 
 ## 🎯 Mission
