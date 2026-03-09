@@ -31,15 +31,21 @@ Based in Switzerland 🇨🇭
 ## Selected Projects
 
 ### Data Visualization
+
 Interactive Data Visualization App built with Streamlit for exploring datasets through dynamic charts, filtering, and interactive dashboards.
+
 [Interactive Data Visualization App built with Streamlit](https://github.com/ivan-matfor/mini-project-streamlit)
 
 ### Statistical Analysis
+
 Statistical analysis of Mastodon engagement patterns using the official Mastodon API, including data collection, exploratory analysis, and behavioural modelling.
+
 [Mastodon Engagement Analysis (API + Statistical Modelling)](https://github.com/ivan-matfor/mastodon-challenge)
 
 ### Machine Learning
+
 Unsupervised customer segmentation using K-Means, Gaussian Mixture Models, Isolation Forest, and PCA on credit card transaction data.
+
 [Credit Card Segmentation Project](https://github.com/ivan-matfor/credit-card-segmentation)
 
 ## Certifications
