@@ -46,7 +46,7 @@ Statistical analysis of Mastodon engagement patterns using the official Mastodon
 
 Unsupervised customer segmentation using K-Means, Gaussian Mixture Models, Isolation Forest, and PCA on credit card transaction data.
 
-[Credit Card Segmentation Project](https://github.com/ivan-matfor/credit-card-segmentation)
+[Credit Card Customer Segmentation](https://github.com/ivan-matfor/credit-card-segmentation)
 
 ## Certifications
 - AWS Certified AI Practitioner
