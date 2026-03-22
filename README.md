@@ -32,8 +32,6 @@ Based in Switzerland 🇨🇭
 
 ## Selected Projects
 
-### Deep Learning / Computer Vision
-
 ### Data Visualization
 
 Interactive Data Visualization App built with Streamlit for exploring datasets through dynamic charts, filtering, and interactive dashboards.
@@ -51,6 +49,8 @@ Statistical analysis of Mastodon engagement patterns using the official Mastodon
 Unsupervised customer segmentation using K-Means, Gaussian Mixture Models, Isolation Forest, and PCA on credit card transaction data.
 
 🔗 [Credit Card Customer Segmentation](https://github.com/ivan-matfor/credit-card-segmentation)
+
+### Deep Learning / Computer Vision
 
 Satellite image classification model to detect hurricane damage using CNNs and transfer learning.
 
