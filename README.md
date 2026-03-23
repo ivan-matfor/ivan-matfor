@@ -13,8 +13,9 @@ Based in Switzerland 🇨🇭
 
 ## Current Work
 
-- Building a CNN-based hurricane damage classifier using satellite imagery and transfer learning
-- Strengthening MLOps & Cloud workflows
+- Developing a classic NLP pipeline covering text preprocessing, feature engineering, and supervised classification
+- Building a RAG-based application integrating retrieval-augmented generation with open-source LLMs via Hugging Face API
+- Designing an end-to-end ML pipeline with containerized deployment (Docker), CI/CD, and cloud infrastructure
 
 ## Tech Stack
 
