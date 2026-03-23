@@ -17,9 +17,9 @@ Based in Switzerland 🇨🇭
 
 ## Current Work
 
-- Developing a classic NLP pipeline covering text preprocessing, feature engineering, and supervised classification
-- Building a RAG-based application integrating retrieval-augmented generation with open-source LLMs via Hugging Face API
-- Designing an end-to-end ML pipeline with containerized deployment (Docker), CI/CD, and cloud infrastructure
+- Developing a classic NLP pipeline covering text preprocessing, feature engineering, and supervised classification ![Status](https://img.shields.io/badge/status-in%20progress-orange?style=flat)
+- Building a RAG-based application integrating retrieval-augmented generation with open-source LLMs via Hugging Face API ![Status](https://img.shields.io/badge/status-in%20progress-orange?style=flat)
+- Designing an end-to-end ML pipeline with containerized deployment (Docker), CI/CD, and cloud infrastructure ![Status](https://img.shields.io/badge/status-in%20progress-orange?style=flat)
 
 ## Tech Stack
 
@@ -71,3 +71,9 @@ Satellite image classification model to detect hurricane damage using CNNs and t
 - Tableau Certified Data Analyst
 
 🔗 [Credly](https://www.credly.com/users/ivan-mateo-forcen)
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-matfor&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-matfor&layout=compact&theme=dark)
