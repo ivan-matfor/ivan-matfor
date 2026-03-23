@@ -2,6 +2,10 @@
 
 **Data Science | Strong Analytics Background**
 
+Originally from Spain 🇪🇸
+
+Lived and worked across 🇳🇱 Netherlands · 🇸🇮 Slovenia
+
 Based in Switzerland 🇨🇭
 
 ## Focus
