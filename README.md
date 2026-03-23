@@ -76,4 +76,4 @@ Satellite image classification model to detect hurricane damage using CNNs and t
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-matfor&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-matfor&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-matfor&layout=compact&theme=dark&hide=jupyter%20notebook)
