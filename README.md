@@ -1,6 +1,6 @@
 # Ivan Mateo Forcen
 
-**Data Science | Strong Analytics Background**
+**Data Science & AI | ML · NLP · Deep Learning | Strong Analytics Background**
 
 Originally from Spain 🇪🇸
 
