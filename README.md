@@ -15,7 +15,7 @@ Based in Switzerland 🇨🇭
 - Data Engineering foundations
 - Applied AI systems
 
-## Current Work
+## Future Scope
 
 - Developing a classic NLP pipeline covering text preprocessing, feature engineering, and supervised classification ![Status](https://img.shields.io/badge/status-in%20progress-orange?style=flat)
 - Building a RAG-based application integrating retrieval-augmented generation with open-source LLMs via Hugging Face API ![Status](https://img.shields.io/badge/status-in%20progress-orange?style=flat)
@@ -39,17 +39,11 @@ Based in Switzerland 🇨🇭
 
 ## Selected Projects
 
-### Data Visualization
+### Deep Learning / Computer Vision
 
-Interactive Data Visualization App built with Streamlit for exploring datasets through dynamic charts, filtering, and interactive dashboards.
+Satellite image classification model to detect hurricane damage using CNNs and transfer learning.
 
-🔗 [Interactive Data Visualization App built with Streamlit](https://github.com/ivan-matfor/mini-project-streamlit)
-
-### Statistical Analysis
-
-Statistical analysis of Mastodon engagement patterns using the official Mastodon API, including data collection, exploratory analysis, and behavioural modelling.
-
-🔗 [Mastodon Engagement Analysis (API + Statistical Modelling)](https://github.com/ivan-matfor/mastodon-challenge)
+🔗 [Hurricane Damage Detector](https://github.com/ivan-matfor/hurricane-damage-detector)
 
 ### Machine Learning
 
@@ -57,11 +51,17 @@ Unsupervised customer segmentation using K-Means, Gaussian Mixture Models, Isola
 
 🔗 [Credit Card Customer Segmentation](https://github.com/ivan-matfor/credit-card-segmentation)
 
-### Deep Learning / Computer Vision
+### Statistical Analysis
 
-Satellite image classification model to detect hurricane damage using CNNs and transfer learning.
+Statistical analysis of Mastodon engagement patterns using the official Mastodon API, including data collection, exploratory analysis, and behavioural modelling.
 
-🔗 [Hurricane Damage Detector](https://github.com/ivan-matfor/hurricane-damage-detector)
+🔗 [Mastodon Engagement Analysis (API + Statistical Modelling)](https://github.com/ivan-matfor/mastodon-challenge)
+
+### Data Visualization
+
+Interactive Data Visualization App built with Streamlit for exploring datasets through dynamic charts, filtering, and interactive dashboards.
+
+🔗 [Interactive Data Visualization App built with Streamlit](https://github.com/ivan-matfor/mini-project-streamlit)
 
 ## Certifications
 
