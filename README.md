@@ -71,9 +71,3 @@ Interactive Data Visualization App built with Streamlit for exploring datasets t
 - Tableau Certified Data Analyst
 
 🔗 [Credly](https://www.credly.com/users/ivan-mateo-forcen)
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ivan-matfor&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ivan-matfor&layout=compact&theme=dark)
