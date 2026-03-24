@@ -15,7 +15,7 @@ Based in Switzerland 🇨🇭
 - Data Engineering foundations
 - Applied AI systems
 
-## Future Scope
+## Current Work
 
 - Developing a classic NLP pipeline covering text preprocessing, feature engineering, and supervised classification ![Status](https://img.shields.io/badge/status-in%20progress-orange?style=flat)
 - Building a RAG-based application integrating retrieval-augmented generation with open-source LLMs via Hugging Face API ![Status](https://img.shields.io/badge/status-in%20progress-orange?style=flat)
