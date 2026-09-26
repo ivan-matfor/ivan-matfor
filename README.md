@@ -5,7 +5,8 @@
 · From Spain 🇪🇸<br>
 · Studied in: Spain 🇪🇸 | the Netherlands 🇳🇱<br>
 · Worked in: Spain 🇪🇸 | Slovenia 🇸🇮 | Switzerland 🇨🇭<br>
-Currently based in Zaragoza, Spain 🇪🇸
+
+Currently based in Spain 🇪🇸
 
 ## Focus
 
