@@ -4,7 +4,7 @@
 
 · From Spain 🇪🇸<br>
 · Studied in: Spain 🇪🇸 | the Netherlands 🇳🇱<br>
-· Worked in: Spain 🇪🇸 | Slovenia 🇸🇮 | Switzerland 🇨🇭<br>
+· Worked in: Slovenia 🇸🇮 | Spain 🇪🇸 | Switzerland 🇨🇭<br>
 
 Currently based in Spain 🇪🇸
 
