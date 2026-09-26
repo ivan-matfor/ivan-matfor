@@ -2,11 +2,10 @@
 
 **Data Science & AI | ML · NLP · Deep Learning | Strong Analytics Background**
 
-· From Spain 🇪🇸 
-· Studied in: Spain 🇪🇸 | The Netherlands 🇳🇱
-· Worked in: Spain 🇪🇸 | Slovenia 🇸🇮 | Switzerland 🇨🇭
-
-Currently based in Spain 🇪🇸
+· From Spain 🇪🇸<br>
+· Studied in: Spain 🇪🇸 | the Netherlands 🇳🇱<br>
+· Worked in: Spain 🇪🇸 | Slovenia 🇸🇮 | Switzerland 🇨🇭<br>
+Currently based in Zaragoza, Spain 🇪🇸
 
 ## Focus
 
